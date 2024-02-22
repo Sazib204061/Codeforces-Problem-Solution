@@ -1,3 +1,5 @@
+/* -------------Problem Link: https://codeforces.com/contest/312/problem/A */
+
 //#include<bits/stdc++.h>
 #include<iostream>
 #include<cmath>

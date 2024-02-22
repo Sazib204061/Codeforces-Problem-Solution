@@ -1,6 +1,6 @@
 
 /*----problem Link : https://codeforces.com/problemset/problem/312/B*/
-
+ 
 //#include<bits/stdc++.h>
 #include<iostream>
 #include<cmath>
